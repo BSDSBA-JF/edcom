@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Temporary Office files (start with ~$)
+~$*
+
+
+# Ignore specific folder
+../data/
