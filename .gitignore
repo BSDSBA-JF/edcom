@@ -6,4 +6,4 @@
 
 
 # Ignore specific folder
-../data/
+**/data/
